@@ -1,5 +1,6 @@
 .flair:before {
   background-image: url(https://raw.githubusercontent.com/PhoenixAvenger/r-nfl-fade-the-flairs/master/flairs.png) !important;
+  background-size: 200%;
 }
 
 /* .flair-cardinals::before,
@@ -17,6 +18,7 @@ a[href$="/FALCONS"]::before,
 a[href$="/ATL"]::before {
   background-position: -20px -40px;
 } */
+
 /* .flair-ravens::before,
 a[href$="/r/ravens"]::before,
 a[href$="/BAL"]::before,
