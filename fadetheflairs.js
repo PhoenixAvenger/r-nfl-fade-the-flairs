@@ -1,9 +1,12 @@
-file = location.pathname.split( "/" ).pop();
-
-link = document.createElement( "https://github.com/PhoenixAvenger/r-nfl-fade-the-flairs/blob/master/fadetheflairs.css" );
-link.href = file.substr( 0, file.lastIndexOf( "." ) ) + ".css";
-link.type = "text/css";
-link.rel = "stylesheet";
-link.media = "screen,print";
-
-document.getElementsByTagName( "head" )[0].appendChild( link );
+var cssId = 'fadeTheFlairs';  // you could encode the css path itself to generate id..
+if (!document.getElementById(cssId))
+{
+    var head  = document.getElementsByTagName('head')[0];
+    var link  = document.createElement('link');
+    link.id   = cssId;
+    link.rel  = 'stylesheet';
+    link.type = 'text/css';
+    link.href = 'https://raw.githubusercontent.com/PhoenixAvenger/r-nfl-fade-the-flairs/master/fadetheflairs.css';
+    link.media = 'all';
+    head.appendChild(link);
+}

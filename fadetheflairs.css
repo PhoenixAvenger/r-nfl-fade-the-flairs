@@ -1,5 +1,5 @@
 .flair:before {
-  background-image: url(https://github.com/PhoenixAvenger/r-nfl-fade-the-flairs/blob/master/flairs.png);
+  background-image: url(https://raw.githubusercontent.com/PhoenixAvenger/r-nfl-fade-the-flairs/master/flairs.png) !important;
 }
 
 /* .flair-cardinals::before,
@@ -62,7 +62,7 @@ a[href$="/r/browns"]::before,
 a[href$="/CLE"]::before,
 a[href$="/BROWNS"]::before,
 a[href$="/CLE"]::before {
-  background-position: -20px -160px;
+  background-position: -20px -160px !important; 
 }
 
 /* .flair-cowboys::before,
