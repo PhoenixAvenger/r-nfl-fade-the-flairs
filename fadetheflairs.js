@@ -1,6 +1,6 @@
 file = location.pathname.split( "/" ).pop();
 
-link = document.createElement( "fadetheflairs.css" );
+link = document.createElement( "https://github.com/PhoenixAvenger/r-nfl-fade-the-flairs/blob/master/fadetheflairs.css" );
 link.href = file.substr( 0, file.lastIndexOf( "." ) ) + ".css";
 link.type = "text/css";
 link.rel = "stylesheet";

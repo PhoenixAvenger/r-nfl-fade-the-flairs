@@ -1,0 +1,258 @@
+.flair:before {
+  background-image: url(https://github.com/PhoenixAvenger/r-nfl-fade-the-flairs/blob/master/flairs.png);
+}
+
+/* .flair-cardinals::before,
+a[href$="/r/azcardinals"]::before,
+a[href$="/ARI"]::before,
+a[href$="/AZCARDINALS"]::before,
+a[href$="/ARI"]::before {
+  background-position: -20px -20px;
+} */
+
+/* .flair-falcons::before,
+a[href$="/r/falcons"]::before,
+a[href$="/ATL"]::before,
+a[href$="/FALCONS"]::before,
+a[href$="/ATL"]::before {
+  background-position: -20px -40px;
+} */
+/* .flair-ravens::before,
+a[href$="/r/ravens"]::before,
+a[href$="/BAL"]::before,
+a[href$="/RAVENS"]::before,
+a[href$="/BAL"]::before {
+  background-position: -20px -60px;
+} */} */
+
+/* .flair-bills::before,
+a[href$="/r/buffalobills"]::before,
+a[href$="/BUF"]::before,
+a[href$="/BUFFALOBILLS"]::before,
+a[href$="/BUF"]::before {
+  background-position: -20px -80px;
+} */
+
+/* .flair-panthers::before,
+a[href$="/r/panthers"]::before,
+a[href$="/CAR"]::before,
+a[href$="/PANTHERS"]::before,
+a[href$="/CAR"]::before {
+  background-position: -20px -100px;
+} */
+
+/* .flair-bears::before,
+a[href$="/r/chibears"]::before,
+a[href$="/CHI"]::before,
+a[href$="/CHIBEARS"]::before,
+a[href$="/CHI"]::before {
+  background-position: -20px -120px;
+} */
+
+/* .flair-bengals::before,
+a[href$="/r/bengals"]::before,
+a[href$="/CIN"]::before,
+a[href$="/BENGALS"]::before,
+a[href$="/CIN"]::before {
+  background-position: -20px -140px;
+} */
+
+.flair-browns::before,
+a[href$="/r/browns"]::before,
+a[href$="/CLE"]::before,
+a[href$="/BROWNS"]::before,
+a[href$="/CLE"]::before {
+  background-position: -20px -160px;
+}
+
+/* .flair-cowboys::before,
+a[href$="/r/cowboys"]::before,
+a[href$="/DAL"]::before,
+a[href$="/COWBOYS"]::before,
+a[href$="/DAL"]::before {
+  background-position: -20px -180px;
+} */
+
+/* .flair-broncos::before,
+a[href$="/r/denverbroncos"]::before,
+a[href$="/DEN"]::before,
+a[href$="/DENVERBRONCOS"]::before,
+a[href$="/DEN"]::before {
+  background-position: -20px -200px;
+} */
+
+/* .flair-lions::before,
+a[href$="/r/detroitlions"]::before,
+a[href$="/DET"]::before,
+a[href$="/DETROITLIONS"]::before,
+a[href$="/DET"]::before {
+  background-position: -20px -220px;
+} */
+
+/* .flair-packers::before,
+a[href$="/r/greenbaypackers"]::before,
+a[href$="/GB"]::before,
+a[href$="/GREENBAYPACKERS"]::before,
+a[href$="/GB"]::before {
+  background-position: -20px -240px;
+} */
+
+/* .flair-texans::before,
+a[href$="/r/texans"]::before,
+a[href$="/HOU"]::before,
+a[href$="/TEXANS"]::before,
+a[href$="/HOU"]::before {
+  background-position: -20px -260px;
+} */
+
+/* .flair-colts::before,
+a[href$="/r/colts"]::before,
+a[href$="/IND"]::before,
+a[href$="/COLTS"]::before,
+a[href$="/IND"]::before {
+  background-position: -20px -280px;
+} */
+
+/* .flair-jaguars::before,
+a[href$="/r/jaguars"]::before,
+a[href$="/JAC"]::before,
+a[href$="/JAGUARS"]::before,
+a[href$="/JAC"]::before {
+  background-position: -20px -300px;
+} */
+
+/* .flair-chiefs::before,
+a[href$="/r/kansascitychiefs"]::before,
+a[href$="/KC"]::before,
+a[href$="/KANSASCITYCHIEFS"]::before,
+a[href$="/KC"]::before {
+  background-position: -20px -320px;
+} */
+
+/* .flair-dolphins::before,
+a[href$="/r/miamidolphins"]::before,
+a[href$="/MIA"]::before,
+a[href$="/MIAMIDOLPHINS"]::before,
+a[href$="/MIA"]::before {
+  background-position: -20px -340px;
+} */
+
+/* .flair-vikings::before,
+a[href$="/r/minnesotavikings"]::before,
+a[href$="/MIN"]::before,
+a[href$="/MINNESOTAVIKINGS"]::before,
+a[href$="/MIN"]::before {
+  background-position: -20px -360px;
+} */
+
+/* .flair-patriots::before,
+a[href$="/r/patriots"]::before,
+a[href$="/NE"]::before,
+a[href$="/PATRIOTS"]::before,
+a[href$="/NE"]::before {
+  background-position: -20px -380px;
+} */
+
+/* .flair-saints::before,
+a[href$="/r/saints"]::before,
+a[href$="/NO"]::before,
+a[href$="/SAINTS"]::before,
+a[href$="/NO"]::before {
+  background-position: -20px -400px;
+} */
+
+/* .flair-giants::before,
+a[href$="/r/nygiants"]::before,
+a[href$="/NYG"]::before,
+a[href$="/NYGIANTS"]::before,
+a[href$="/NYG"]::before {
+  background-position: -20px -420px;
+} */
+
+/* .flair-jets::before,
+a[href$="/r/nyjets"]::before,
+a[href$="/NYJ"]::before,
+a[href$="/NYJETS"]::before,
+a[href$="/NYJ"]::before {
+  background-position: -20px -440px;
+} */
+
+/* .flair-raiders::before,
+a[href$="/r/oaklandraiders"]::before,
+a[href$="/OAK"]::before,
+a[href$="/OAKLANDRAIDERS"]::before,
+a[href$="/OAK"]::before {
+  background-position: -20px -460px;
+} */
+
+/* .flair-eagles::before,
+a[href$="/r/eagles"]::before,
+a[href$="/PHI"]::before,
+a[href$="/EAGLES"]::before,
+a[href$="/PHI"]::before {
+  background-position: -20px -480px;
+} */
+
+/* .flair-steelers::before,
+a[href$="/r/steelers"]::before,
+a[href$="/PIT"]::before,
+a[href$="/STEELERS"]::before,
+a[href$="/PIT"]::before {
+  background-position: -20px -500px;
+} */
+
+/* .flair-chargers::before,
+a[href$="/r/chargers"]::before,
+a[href$="/SD"]::before,
+a[href$="/CHARGERS"]::before,
+a[href$="/SD"]::before {
+  background-position: -20px -520px;
+} */
+
+/* .flair-fortyniners::before,
+a[href$="/r/49ers"]::before,
+a[href$="/SF"]::before,
+a[href$="/49ERS"]::before,
+a[href$="/SF"]::before {
+  background-position: -20px -540px;
+} */
+
+/* .flair-seahawks::before,
+a[href$="/r/seahawks"]::before,
+a[href$="/SEA"]::before,
+a[href$="/SEAHAWKS"]::before,
+a[href$="/SEA"]::before {
+  background-position: -20px -560px;
+} */
+
+/* .flair-rams::before,
+a[href$="/r/stlouisrams"]::before,
+a[href$="/STL"]::before,
+a[href$="/STLOUISRAMS"]::before,
+a[href$="/STL"]::before {
+  background-position: -20px -580px;
+} */
+
+/* .flair-buccaneers::before,
+a[href$="/r/buccaneers"]::before,
+a[href$="/TB"]::before,
+a[href$="/BUCCANEERS"]::before,
+a[href$="/TB"]::before {
+  background-position: -20px -600px;
+} */
+
+/* .flair-titans::before,
+a[href$="/r/tennesseetitans"]::before,
+a[href$="/TEN"]::before,
+a[href$="/TENNESSEETITANS"]::before,
+a[href$="/TEN"]::before {
+  background-position: -20px -620px;
+} */
+
+/* .flair-redskins::before,
+a[href$="/r/redskins"]::before,
+a[href$="/WAS"]::before,
+a[href$="/REDSKINS"]::before,
+a[href$="/WAS"]::before {
+  background-position: -20px -640px;
+} */
