@@ -1,7 +1,9 @@
 {
   "manifest_version": 2,
   "name": "r/NFL Fade The Flairs",
+  "short_name": "Fade The Flairs",
   "version": "0.1",
+  "description": "Will fade the flairs in r/nfl.",
   "author": "PhoenixAvenger",
   "content_scripts": [
   {
